@@ -1,0 +1,10 @@
+colorama==0.4.4
+pypresence==4.2.1
+requests==2.25.1
+plyer==2.0.0
+discord.ext==0.8
+discord==1.7.3
+selenium==3.141.0
+discord-webhook==0.15.0
+Pillow==9.1.0
+bs4==0.0.1
