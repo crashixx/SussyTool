@@ -16,6 +16,7 @@ Sussy Tool is a program with useful tools for discord.
 - **Windows 7/8/10** OS only (*win32, for x86, x86_64, and arm64 architectures*)
 - **Python 3.x** (*python 3.8 used for the project.*)
 - **Modules:** `$ pip install -r requirements.txt`
+- **Firefox** & geckodriver but it is normally included..
 
 ## Coming soon tools
 - **Token generator**
